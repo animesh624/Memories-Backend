@@ -1,7 +1,7 @@
 {
-  "name": "notezipper",
+  "name": "memories-animesh624d",
   "version": "1.0.0",
-  "description": "\"It is a app for maintaing precious notes\"",
+  "description": "\"It is a app for maintaing precious memories\"",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
